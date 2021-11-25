@@ -7,3 +7,4 @@
   - [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231).
   - [Move all negative elements to end](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813). 
   - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538).
+  - [Reverse String](https://leetcode.com/problems/reverse-string).
