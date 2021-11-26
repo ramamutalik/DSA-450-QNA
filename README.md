@@ -13,3 +13,4 @@
     - [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817).
     - [Repeated Character](https://practice.geeksforgeeks.org/problems/repeated-character2058).
     - [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321).
+    - [Check if strings are rotations of each other or not ](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620).
