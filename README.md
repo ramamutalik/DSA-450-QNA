@@ -14,3 +14,8 @@
     - [Repeated Character](https://practice.geeksforgeeks.org/problems/repeated-character2058).
     - [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321).
     - [Check if strings are rotations of each other or not ](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620).
+  - Searching and sorting:
+    - [First and last occurrences of x](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116).
+    - [Value equal to index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330).
+    - [Count Squares ](https://practice.geeksforgeeks.org/problems/count-squares3649).
+    - [ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array).
