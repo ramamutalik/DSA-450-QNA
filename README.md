@@ -21,5 +21,5 @@
     - [ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array).
     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array).
     - [Count Squares ](https://practice.geeksforgeeks.org/problems/count-squares3649).
-    - []().
+    - [Middle of Three ](https://practice.geeksforgeeks.org/problems/count-squares3649).
     - []().
