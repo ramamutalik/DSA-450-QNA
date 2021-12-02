@@ -19,7 +19,7 @@
     - [Value equal to index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330).
     - [Count Squares ](https://practice.geeksforgeeks.org/problems/count-squares3649).
     - [ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array).
-    - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).
-    - []().
+    - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array).
+    - [Count Squares ](https://practice.geeksforgeeks.org/problems/count-squares3649).
     - []().
     - []().
