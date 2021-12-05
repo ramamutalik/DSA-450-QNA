@@ -23,3 +23,5 @@
     - [Count Squares ](https://practice.geeksforgeeks.org/problems/count-squares3649).
     - [Middle of Three ](https://practice.geeksforgeeks.org/problems/count-squares3649).
     - []().
+  - Bit Manipulation:
+    - [Number of 1 Bits ](https://practice.geeksforgeeks.org/problems/set-bits0143).
