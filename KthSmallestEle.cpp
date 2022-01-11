@@ -43,7 +43,7 @@ int kthSmallest(int arr[], int l, int r, int k) {
          return arr[k-1];
 }
 
-//klog(N)
+//klog(N) max heap
 
 int kthSmallest(int arr[], int l, int r, int k) {
         //code here
@@ -55,3 +55,15 @@ int kthSmallest(int arr[], int l, int r, int k) {
         }
         return pq.top();
 }
+
+// min heap
+
+priority_queue<int,vector<int>,greater<int>> p;
+    for(int i=l;i<=r;i++){
+        p.push(arr[i]);
+    }
+    for(int j=0;j<k-1;j++){
+        p.pop();
+    }
+    return p.top();
+    }
