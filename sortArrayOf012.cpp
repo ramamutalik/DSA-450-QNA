@@ -64,3 +64,29 @@ void sort012(int a[], int n)
             a[i]=arr[i];
         }
     }
+
+
+//approach 2
+ void swap(int a[], int i, int j){
+        int temp= a[i];
+        a[i]=a[j];
+        a[j]=temp;
+    }
+    void sort012(int a[], int n)
+    {
+        // coode here 
+        int lo=0, mid=0, hi=n-1;
+        while(mid<=hi){
+            if(a[mid]==0){
+                swap(a,lo,mid);
+                lo++; mid++;
+            }
+            else if(a[mid]==1){
+                mid++;
+            }
+            else{
+                swap(a,mid,hi);
+                hi--;
+            }
+        }
+    }
