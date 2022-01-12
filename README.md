@@ -9,6 +9,7 @@
     - [Move all negative elements to end](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813). 
     - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538).
     - [Intersection of two arrays ](https://leetcode.com/problems/intersection-of-two-arrays/submissions/).
+    - [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351).
   - String:
     - [Reverse String](https://leetcode.com/problems/reverse-string).
     - [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817).
