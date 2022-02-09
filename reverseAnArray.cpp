@@ -49,3 +49,18 @@ int main() {
 	}
 	return 0;
 }
+
+//another approach
+
+string reverseWord(string str){
+    
+  //Your code here
+  int l=str.length();
+  int s=0,e=l-1;
+  while(s<=e){
+      swap(str[s],str[e]);
+      s++;
+      e--;
+  }
+  return str;
+}
