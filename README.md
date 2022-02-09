@@ -6,7 +6,7 @@
     - [Find minimum and maximum element in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428).
     - [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635).
     - [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231).
-    - [Move all negative elements to end](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813). 
+    - [Move all negative elements to end](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/). 
     - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538).
     - [Intersection of two arrays ](https://leetcode.com/problems/intersection-of-two-arrays/submissions/).
     - [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351).
