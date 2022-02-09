@@ -11,6 +11,7 @@
     - [Intersection of two arrays ](https://leetcode.com/problems/intersection-of-two-arrays/submissions/).
     - [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351).
     - [Cyclically rotate an array by one ](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1).
+    - [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#).
   - String:
     - [Reverse String](https://leetcode.com/problems/reverse-string).
     - [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817).
