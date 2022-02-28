@@ -31,10 +31,10 @@
     - [Number of 1 Bits ](https://practice.geeksforgeeks.org/problems/set-bits0143).
   - Linked List:
     - [Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/).
-    - [Reverse a Linked List in groups of given size.]
-    - [Detect Loop in linked list]
-    - [Remove loop in Linked List ]
-    - [Find first node of loop in a linked list]
-    - [Remove duplicate element from sorted Linked List ]
-    - [Remove duplicates from an unsorted linked list]
-    - [Move last element to front of a given Linked List]
+    - [Reverse a Linked List in groups of given size.](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1).
+    - [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1).
+    - [Remove loop in Linked List ](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1).
+    - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/).
+    - [Remove duplicate element from sorted Linked List ](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1).
+    - [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1).
+    - [Move last element to front of a given Linked List](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/).
