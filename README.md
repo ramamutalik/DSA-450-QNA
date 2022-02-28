@@ -29,3 +29,12 @@
     - []().
   - Bit Manipulation:
     - [Number of 1 Bits ](https://practice.geeksforgeeks.org/problems/set-bits0143).
+  - Linked List:
+    - [Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/).
+    - [Reverse a Linked List in groups of given size.]
+    - [Detect Loop in linked list]
+    - [Remove loop in Linked List ]
+    - [Find first node of loop in a linked list]
+    - [Remove duplicate element from sorted Linked List ]
+    - [Remove duplicates from an unsorted linked list]
+    - [Move last element to front of a given Linked List]
