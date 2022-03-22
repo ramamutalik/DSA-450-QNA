@@ -38,3 +38,8 @@
     - [Remove duplicate element from sorted Linked List ](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1).
     - [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1).
     - [Move last element to front of a given Linked List](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/).
+  - Tree
+    - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/).
+    - []().
+    - []().
+    - []().
