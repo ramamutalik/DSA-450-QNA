@@ -29,7 +29,7 @@ words[i] consists only of lowercase English letters.
 ```
 ### Key Takeaway ###
 
-- ==
+`````
 
 // Check if string contains the character or not
     if (sample.find(ch) != string::npos )
@@ -41,4 +41,4 @@ words[i] consists only of lowercase English letters.
         cout<<"No, string do not contains the character - "<< ch << endl;
     }
 
- ==
+ ``````
