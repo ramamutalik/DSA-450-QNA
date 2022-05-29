@@ -27,3 +27,18 @@ Explanation: No such pair of words.
 1 <= words[i].length <= 1000
 words[i] consists only of lowercase English letters.
 ```
+### Key Takeaway ###
+
+- ==
+
+// Check if string contains the character or not
+    if (sample.find(ch) != string::npos )
+    {
+        cout<<"Yes, string contains the character - "<< ch << endl;
+    }
+    else
+    {
+        cout<<"No, string do not contains the character - "<< ch << endl;
+    }
+
+ ==
