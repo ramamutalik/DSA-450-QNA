@@ -23,6 +23,5 @@ Output: [["a"]]
 1 <= s.length <= 16
 s contains only lowercase English letters.
 ```
-````
 # Do partion ONLY if the substring previous to it is palindrome......................................
-```
+
